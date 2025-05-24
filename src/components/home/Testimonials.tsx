@@ -1,22 +1,24 @@
 
 const testimonials = [
   {
-    quote: "The Marketing Hub team completely transformed our digital strategy. Their AI-driven approach increased our conversion rate by 65% in just three months.",
-    author: "Sarah Johnson",
-    position: "CEO, TechStart Inc.",
-    image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&auto=format&fit=crop&w=200&q=80"
-  },
-  {
     quote: "As a small business owner, I was struggling to compete online. Marketing Hub provided affordable solutions that delivered real results. Our social media engagement has tripled!",
-    author: "Michael Chen",
-    position: "Owner, Urban Cafe",
-    image: "https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-1.2.1&auto=format&fit=crop&w=200&q=80"
+    author: "Dr. Ritika Dua",
+    position: "Owner, Fitness-Hub",
+    image: "https://assets.lybrate.com/img/documents/doctor/dp/ef8a10234ff12fddbdd34529568a1c3c/Dietitian-Nutritionist-RitikaDua-Delhi-e9297f"
   },
+
+   {
+    quote: "The Marketing Hub team completely transformed our digital strategy. Their AI-driven approach increased our conversion rate by 65% in just three months.",
+    author: "Dr. Manik Mittal",
+    position: "MD, New Vision Eye Centre.",
+    image: "https://www.plunes.com/_next/image?url=https%3A%2F%2Fprofile-image-plunes.s3.amazonaws.com%2FNew%2520Vision%2520Eye%2520Centre_64dde24e3144695b12723e2e%2Fpictures%2F1694068752194-56255777-3ca2-4290-bbd2-a9ca24bd9932.jpg&w=3840&q=75"
+  },
+
   {
     quote: "What impressed me most was their attention to detail and commitment to understanding our unique needs. The website they developed for us perfectly captures our brand identity.",
-    author: "Emily Rodriguez",
-    position: "Marketing Director, Eco Goods",
-    image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-1.2.1&auto=format&fit=crop&w=200&q=80"
+    author: "Kapil Khera",
+    position: "CEO, Krishkindu.inc",
+    image: "https://media.licdn.com/dms/image/v2/D4D03AQGnY1rshX1LnQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1719306396202?e=1753315200&v=beta&t=sdYamQwDOmKZK7Lo9oPZ1-tZzJI9ydYq12lTz_2Zfpg"
   },
 ];
 

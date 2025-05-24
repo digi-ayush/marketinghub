@@ -114,7 +114,7 @@ const Portfolio = () => {
             <div className="flex flex-nowrap justify-center gap-4 mb-12 reveal-animation">
               {categories.map((category, index) => (
                 <Button
-                  key={index}
+                  key={category}
                   variant={filter === category ? "default" : "outline"}
                   onClick={() => setFilter(category)}
                   className="min-w-[120px]"
